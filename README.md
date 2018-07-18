@@ -1,2 +1,7 @@
 # Graph-Adjacency-list-in-C-
-Developed for COMP9024 at UNSW
+// An example project for COMP9024 (UNSW)
+// The project includes a structure (adjacency list graph representation)
+// and functionalility / algorithms (insertion, deletion, shortest path etc)
+
+// Heap structure from earlier task scheduler is imported
+// in order to utilise the heap based priority queue
